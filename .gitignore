@@ -18,23 +18,12 @@
 *.zip
 *.tar.gz
 *.rar
+*.doc
 *.docx
+*/xls
 *.xlsx
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-*.docx
 sheet_in_office.iml
-*.docx
-.idea/checkstyle-idea.xml
-.idea/checkstyleidea-libs/readme.txt
-.idea/codeStyles/codeStyleConfig.xml
-.idea/compiler.xml
-.idea/encodings.xml
-.idea/fileTemplates/internal/Class.java
-.idea/misc.xml
-.idea/vcs.xml
-.idea/workspace.xml
-Test.docx
-Test.docx
-Test.docx
+/.idea/
